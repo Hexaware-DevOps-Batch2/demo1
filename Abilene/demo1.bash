@@ -6,7 +6,7 @@ read_file=$properties_file
 remote_dir="my-projects/demo2"
 exit_code=0
 exit_message=""
-
+# comment
 if [ $# -lt 2 ];then
  echo "This scripts needs 2 arguments to run (host configuration file and yml file)" >&2
  exit 1
