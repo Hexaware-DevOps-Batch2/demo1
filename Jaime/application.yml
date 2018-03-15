@@ -1,0 +1,10 @@
+server:
+  port: 9000
+  address: 192.168.0.1
+  hostname: localhost
+  contextPath: /my-first-environment
+
+environment:
+  username:ubuntu
+  homeDirectory:/home/ubuntu
+  lang:en_US.UTF-8
